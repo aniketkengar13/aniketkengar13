@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏻, Aniket kengar hear</h1>
 <h3 align="center">A passionate Theoretical Physics</h3>
 
-- 🔭 I’m currently working on [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-)- 🌱 Also currently learning **Python Django**
+- 🔭 I’m currently working on [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-)- 🌱 Also  learning **Python Django**
 
 - 👨‍💻 You can review my projects hear : [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
 
