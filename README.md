@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aniket Kengar here</h1>
+<h1 align="center">Hey 👋, I'm Aniket Kengar Hear</h1>
 <h3 align="center">A passionate Theoretical Physics</h3>
 
 - 🔭 I’m currently working on [Theoretical Physics (Saha Equation)](https://github.com/aniketkengar13/Saha-Equation-)
