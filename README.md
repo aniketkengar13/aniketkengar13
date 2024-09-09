@@ -5,11 +5,11 @@
 
 - 👨‍💻 You can review my projects Here  : [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
 
-- 💬 You can ask your queries about **Python** on other platforms too 
-
 - 📫 You Can reach me through email: **aniketkengar13@gmail.com**
 
 - 📄 You can Know about my experiences **"IIT bombay techfest"**
+
+- - 💬 You can ask your queries about **Python** on other platforms too 
 
 
 
