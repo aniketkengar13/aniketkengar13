@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniketkengar13@gmail.com**
 
-- 📄 Know about my experiences [iit bombay techfest,smart india hackathon,](iit bombay techfest,smart india hackathon,)
+- 📄 Know about my experiences [iit bombay techfest]
 
 - ⚡ Fun fact **Collaborate People**
 
