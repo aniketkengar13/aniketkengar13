@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-) - 🌱 Also  learning **Python Django**
 
-- 👨‍💻 You can review my projects hear : [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
+- 👨‍💻 You can review my projects Here  : [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
 
 - 💬 You can ask queries about **Python** hear
 
