@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on the [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-) & Also learning on "**Python Django**".
 
-- 👨‍💻 You can review my projects Here  : [https://github.com/aniketkengar13](https://github.com/aniketkengar13).
+- 👨‍💻 You can review my projects Here   [https://github.com/aniketkengar13](https://github.com/aniketkengar13).
 
-- 📫 You Can reach me through email: **aniketkengar13@gmail.com**.
+- 📫 You Can reach me through email **aniketkengar13@gmail.com**.
 
 - 📄 You can Know about my experiences **"IIT bombay techfest"**.
 
