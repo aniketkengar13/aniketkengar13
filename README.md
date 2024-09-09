@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, Aniket kengar Here. </h1>
-<h3 align="center">"An Passionate theoretical physics student & a coder"</h3>
+<h3 align="center">"An Passionate Theoretical Physics Student & a Coder"</h3>
 
 - 🔭 I’m currently working on the [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-) & Also learning on "**Python Django**".
 
