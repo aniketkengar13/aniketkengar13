@@ -1,19 +1,19 @@
 <h1 align="center">Hey 👋🏻, Aniket kengar hear</h1>
 <h3 align="center">A passionate Theoretical Physics</h3>
 
-- 🔭 I’m currently working on [Theoretical Physics (Saha Equation)](https://github.com/aniketkengar13/Saha-Equation-)
+- 🔭 I’m currently working on [Theoretical Physics (Saha Equations)](https://github.com/aniketkengar13/Saha-Equation-)
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 Also currently learning **Python Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
+- 👨‍💻 You can review my projects hear : [https://github.com/aniketkengar13](https://github.com/aniketkengar13)
 
-- 💬 Ask me about **Python**
+- 💬 You can ask queries about **Python** hear
 
-- 📫 How to reach me **aniketkengar13@gmail.com**
+- 📫 You Can reach me through email: **aniketkengar13@gmail.com**
 
-- 📄 Know about my experiences [iit bombay techfest]
+- 📄 You can Know about my experiences "IIT bombay techfest"
 
-- ⚡ Fun fact **Collaborate People**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
