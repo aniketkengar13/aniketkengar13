@@ -9,7 +9,7 @@
 
 - 📄 You can Know about my experiences **"IIT bombay techfest"**
 
-- - 💬 You can ask your queries about **Python** on other platforms too 
+- 💬 You can ask your queries about **Python** on other platforms too 
 
 
 
